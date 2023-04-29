@@ -7,7 +7,7 @@ Ereme is a Flask web application that generates a random meme using the Imgflip 
 To get started with Ereme, clone the repository to your local machine:
 
 ```bash
-git clone```
+git clone https://github.com/a3ro-dev/Ereme```
 
 Next, install the required libraries by running the following command:
 
